@@ -1,0 +1,21 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Commonjs Modules",
+  "main": "hobbies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node --watch people.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattiaNatella/node-commonjs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattiaNatella/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/MattiaNatella/node-commonjs-modules#readme"
+}
